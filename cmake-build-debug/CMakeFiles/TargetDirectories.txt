@@ -1,0 +1,3 @@
+/home/mrazek/CLionProjects/spellChecking/cmake-build-debug/CMakeFiles/LearningC.dir
+/home/mrazek/CLionProjects/spellChecking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrazek/CLionProjects/spellChecking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

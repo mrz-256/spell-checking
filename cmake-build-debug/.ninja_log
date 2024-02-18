@@ -1,0 +1,11 @@
+# ninja log v5
+0	94	1708272530608031992	CMakeFiles/LearningC.dir/main.c.o	99551fe67bfe78cb
+0	95	1708198220301916516	CMakeFiles/LearningC.dir/algorithms/stringdistance.c.o	f88f17e228be21cd
+11	136	1708271675224657301	CMakeFiles/LearningC.dir/datastructures/linkedlist.c.o	b8d750b70768b387
+2	109	1708272530621365327	CMakeFiles/LearningC.dir/algorithms/spellcheck.c.o	ffdc6298175c821
+109	144	1708272530658031996	LearningC	c740e63e3eb894d6
+1	109	1708272703764707043	CMakeFiles/LearningC.dir/datastructures/linkedlist.c.o	f5ac200a04f605af
+0	146	1708272703801373712	CMakeFiles/LearningC.dir/main.c.o	4c822d6dddcd67be
+1	154	1708272703811373712	CMakeFiles/LearningC.dir/algorithms/stringdistance.c.o	552a860877efeb22
+110	206	1708272703861373715	CMakeFiles/LearningC.dir/algorithms/spellcheck.c.o	e4c2f1262c2257c0
+206	242	1708272703898040383	LearningC	c740e63e3eb894d6
