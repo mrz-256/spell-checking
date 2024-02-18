@@ -74,6 +74,7 @@ char *dictionary_get_closest(dictionary_t* dictionary, const char *word)
             closest_word = i;
         }
     }
+    free(lower_word);
 
     return linkedlist_get(dictionary->words, closest_word);
 }
